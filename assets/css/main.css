@@ -4170,7 +4170,7 @@ body.is-mobile.landing .wrapper.style4 {
 }
 
 #header .logo img {
-    max-height: 58px;
+    max-height: 50px;
     width: auto;
 }
 
@@ -4227,10 +4227,10 @@ body.is-mobile.landing .wrapper.style4 {
 
 	width: 100%;
 
-	gap: 1.2em;
+	gap: 1.0em;
 
 	margin: 0 auto;
-	padding: 0 0 0 12em !important;
+	padding: 0 18 0 9em !important;
 
 	list-style: none;
 
@@ -4332,7 +4332,7 @@ body.is-mobile.landing .wrapper.style4 {
 
 /* Hero background */
 #banner {
-	min-height: 100vh;
+	min-height: 92vh;
 	height: 100vh;
 	padding-top: 5.2em;
 	background-image:
@@ -4370,7 +4370,7 @@ body.is-mobile.landing .wrapper.style4 {
 /* Main hero logo */
 .hero-logo {
 	
-	width: 590px !important;
+	width: 480px !important;
 	max-width: 82% !important;
 
 	height: auto !important;
