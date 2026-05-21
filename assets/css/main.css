@@ -4175,9 +4175,9 @@ body.is-mobile.landing .wrapper.style4 {
 }
 
 #header nav > ul > li > a {
-    font-size: 0.72em;
-    letter-spacing: 0.12em;
-	padding: 0 0.9em;
+    font-size: 0.68em;
+    letter-spacing: 0.1em;
+	padding: 0 0.6em;
 }
 
 
@@ -4198,7 +4198,7 @@ body.is-mobile.landing .wrapper.style4 {
 
 .site-logo {
 	width: 190px;
-	height: 145px;
+	height: 130px;
 
 	display: block;
 
@@ -4227,10 +4227,10 @@ body.is-mobile.landing .wrapper.style4 {
 
 	width: 100%;
 
-	gap: 5em;
+	gap: 1.2em;
 
 	margin: 0 auto;
-	padding: 0 0 0 7em !important;
+	padding: 0 0 0 12em !important;
 
 	list-style: none;
 
@@ -4276,7 +4276,7 @@ body.is-mobile.landing .wrapper.style4 {
 .nav-search input {
 	transform: translateY(0.45em);
 
-	width: 340px;
+	width: 300px;
 	height: 5.5em;
 
 	padding: 0 2em;
