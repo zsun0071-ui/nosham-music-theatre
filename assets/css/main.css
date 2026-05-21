@@ -4170,7 +4170,7 @@ body.is-mobile.landing .wrapper.style4 {
 }
 
 #header .logo img {
-    max-height: 32px;
+    max-height: 25px;
     width: auto;
 }
 
@@ -4230,7 +4230,7 @@ body.is-mobile.landing .wrapper.style4 {
 	gap: 1.0em;
 
 	margin: 0 auto;
-	padding: 0 15 0 5em !important;
+	padding: 0 15 0 3em !important;
 
 	list-style: none;
 
