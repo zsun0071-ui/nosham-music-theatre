@@ -4259,6 +4259,9 @@ body.is-mobile.landing .wrapper.style4 {
 
 #header nav ul li.nav-search {
     margin-left: 1.5em;
+
+	position: relative;
+	top: 0.55em;
 }
 
 #header nav ul li a:hover {
