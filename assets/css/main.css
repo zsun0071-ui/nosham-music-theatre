@@ -4170,13 +4170,14 @@ body.is-mobile.landing .wrapper.style4 {
 }
 
 #header .logo img {
-    max-height: 65px;
+    max-height: 58px;
     width: auto;
 }
 
 #header nav > ul > li > a {
-    font-size: 0.85em;
-    letter-spacing: 0.16em;
+    font-size: 0.72em;
+    letter-spacing: 0.12em;
+	padding: 0 0.9em;
 }
 
 
