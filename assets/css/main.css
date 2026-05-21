@@ -4233,6 +4233,8 @@ body.is-mobile.landing .wrapper.style4 {
 
 #header nav ul li:not(.nav-search) {
 	transform: none;
+	position: relative !important;
+    top: 1.1em !important;
 }
 
 #header nav ul li {
