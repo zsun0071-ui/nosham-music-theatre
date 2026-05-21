@@ -4152,9 +4152,9 @@ body.is-mobile.landing .wrapper.style4 {
 	left: 0;
 
 	width: 100%;
-	height: 6.2em;
+	height: 5.2em;
 
-	padding: 0 4em;
+	padding: 0 2.5em;
 
 	display: flex;
 	align-items: center !important;
@@ -4166,6 +4166,17 @@ body.is-mobile.landing .wrapper.style4 {
 	z-index: 99999;
 
 	border-bottom: 1px solid rgba(245,190,90,0.12);
+	overflow: hidden;
+}
+
+#header .logo img {
+    max-height: 65px;
+    width: auto;
+}
+
+#header nav > ul > li > a {
+    font-size: 0.85em;
+    letter-spacing: 0.16em;
 }
 
 
@@ -4478,8 +4489,8 @@ body.is-mobile.landing .wrapper.style4 {
 }
 
 #one .about-image img {
-	width: 1000px !important;
-	height: 720px !important;
+	width: 620px !important;
+	height: 100% !important;
 
 	object-fit: cover !important;
 	object-position: center !important;
@@ -4491,7 +4502,7 @@ body.is-mobile.landing .wrapper.style4 {
 #one .about-content {
 	transform: translate(-10em, 2.5em) !important;
 
-	max-width: 780px !important;
+	max-width: 600px !important;
 	text-align: left !important;
 }
 .about-content h2 {
