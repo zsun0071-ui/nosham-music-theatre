@@ -4243,8 +4243,7 @@ body.is-mobile.landing .wrapper.style4 {
 
 #header nav ul li a {
 	position: relative;
-	top: 0.30em;
-
+	top: 0em;
 	font-size: 0.82em;
 	font-weight: 900;
 
@@ -4252,7 +4251,6 @@ body.is-mobile.landing .wrapper.style4 {
 	text-transform: uppercase;
 
 	color: rgba(255,255,255,0.92);
-
 	border: 0;
 
 	transition: color 0.25s ease;
